@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **C++, JS, PYHTON**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vashisth100](https://github.com/vashisth100)
 
 - 📫 How to reach me **priyanshuvashisth816@gmail.com**
 
