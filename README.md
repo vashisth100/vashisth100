@@ -43,11 +43,11 @@
 ###
 
 <br clear="both">
+<div align="center">
+    
+  ![snake gif](https://github.com/vashisth100/vashisth100/blob/output/github-snake-dark.svg)
+</div>
 
 
 
-###
 
-<p align="center">I'm priyanshu vashisth ... currently a frontend developer</p>
-
-###
