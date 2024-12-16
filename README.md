@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Priyanshu Vashisth and I'm currently 1st year undergradute persuing B.TECH from VIT living in gaziabad, uttar pradesh</h2>
+<h2 align="left">Hi 👋! My name is Priyanshu Vashisth and I'm currently 1st year undergradute persuing B.TECH from VIT lives in gaziabad, uttar pradesh</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="187" src="https://i.gifer.com/Ry6p.gif"  />
+<img align="right" height="187" src="https://media0.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=6c09b952wc1hfi465ofuttd2py3xn3qpeabsrf8oemjsavg7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 
 ###
 
