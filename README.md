@@ -1,3 +1,9 @@
+![github-header-image (7)](https://github.com/user-attachments/assets/f135a6f4-2844-400a-a510-b99f77b040e7)
+
+
+
+
+
 <h2 align="left">Hi 👋! My name is Priyanshu Vashisth and I'm currently 1st year undergradute persuing B.TECH from VIT lives in gaziabad, uttar pradesh</h2>
 
 ###
