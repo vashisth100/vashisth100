@@ -19,6 +19,10 @@
 
 <img align="right" height="187" src="https://media0.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=6c09b952wc1hfi465ofuttd2py3xn3qpeabsrf8oemjsavg7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 
+<p align="left">
+  <img src="https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg" width=40% height=50%>
+</p>
+
 ###
 
 <div align="left">
@@ -47,6 +51,8 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
+<br />
+
 
 ###
 
