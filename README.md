@@ -1,16 +1,18 @@
-![github-header-image (7)](https://github.com/user-attachments/assets/f135a6f4-2844-400a-a510-b99f77b040e7)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fb53b9cd-6e0a-4383-a179-0937739f5c0d" width=100%>
+</p>
 
 
 
 
 
-<h2 align="left">Hi 👋! My name is Priyanshu Vashisth and I'm currently 1st year undergradute persuing B.TECH from VIT lives in gaziabad, uttar pradesh</h2>
+<h2 align="center">Hi 👋! My name is Priyanshu Vashisth and I'm currently 1st year undergradute persuing B.TECH from VIT lives in gaziabad, uttar pradesh</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vashisth100&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vashisth100&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vashisth100&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
