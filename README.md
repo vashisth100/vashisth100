@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi , I'm Priyanshu vashisth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things;Determinanion+.+Discipline+.+Desire"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ff0000,ff7300,fffb00,48ff00,00ffd5,002bff,7a00ff,ff00c8&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Always+learning+new+things;Determination+%3E+Discipline+%3E+Desire"></a>
 </p>
 
 
