@@ -22,7 +22,7 @@
 
 - :school: I am a `2nd year student` at [VIT bhopal university](https://vitbhopal.ac.in/)
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`.
+- :computer: I am a competitive programmer at  [`Leetcode`](https://leetcode.com/u/vashisth10/).
 - :student: I’m currently learning `DSA` and `Machine learning`.
 - :nerd_face: Always `learning new things`.
 <br>
@@ -126,11 +126,7 @@
   &emsp;
     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/vashisth10/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
     <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
 </p>
