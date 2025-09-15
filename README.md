@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" width=100%>
+  <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" width=80%>
 </p>
 
 
@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi , I'm Priyanshu vashisth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ff0000,ff7300,fffb00,48ff00,00ffd5,002bff,7a00ff,ff00c8&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Always+learning+new+things;Determination+%3E+Discipline+%3E+Desire"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ff0000,ff7300,fffb00,48ff00,00ffd5,002bff,7a00ff,ff00c8&size=25&center=true&vCenter=true&width=600&height=80&lines=Computer+Science+Student;Competitive+Programmer;Always+learning+new+things;Determination+%3E+Discipline+%3E+Desire"></a>
 </p>
 
 
