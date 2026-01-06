@@ -23,7 +23,7 @@
 - :school: I am a `2nd year student` at [VIT bhopal university](https://vitbhopal.ac.in/)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at  [`Leetcode`](https://leetcode.com/u/vashisth10/).
-- :student: I’m currently learning `DSA` and `Machine learning`.
+- :student: I’m currently learning `DSA` and `Full stack Development`.
 - :nerd_face: Always `learning new things`.
 <br>
 
