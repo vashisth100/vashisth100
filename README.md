@@ -34,7 +34,7 @@
 ## 🏆 Certifications
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate1.png" width="420"/>
+  <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate1.png" width="200"/>
   <br/>
   <b>Backend Developer – Meta (Coursera)</b>
 </p>
