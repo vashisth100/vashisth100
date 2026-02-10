@@ -31,6 +31,14 @@
 <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=100> </picture> 
 </p>
 
+## 🏆 Certifications
+
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/USERNAME/REPO/main/certificates/react.png](https://coursera.org/share/438f657ec79f8b797c6f157b96068c9b)" width="420"/>
+  <br/>
+  <b>Backend Developer – Meta (Coursera)</b>
+</p>
+
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="priyanshuvashisth816@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
