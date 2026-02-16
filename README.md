@@ -189,8 +189,6 @@
 
 </details>
 
-https://github-readme-stats.vercel.app/api?username=vashisth100&show_icons=true&theme=tokyonight
-
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
