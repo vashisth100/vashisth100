@@ -172,13 +172,11 @@
   <summary><h3>💻 GitHub Profile Stats</h3></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img 
-        alt="vashisth's Github Stats" 
-        src="https://github-readme-stats.vercel.app/api?username=vashisth100&show_icons=true&count_private=true&locale=en&theme=tokyonight" 
-        height="230px"
-      />
-    </a>
+    <img 
+      alt="vashisth's Github Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=vashisth100&show_icons=true&count_private=true&locale=en&theme=tokyonight" 
+      height="230px"
+    />
     &nbsp;
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=vashisth100&langs_count=10&show_icons=true&locale=en&theme=tokyonight&layout=compact" 
@@ -190,6 +188,11 @@
   </p>
 
 </details>
+```
+
+But before anything, **paste this URL directly in your browser** to confirm the API is actually responding:
+```
+https://github-readme-stats.vercel.app/api?username=vashisth100&show_icons=true&theme=tokyonight
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
