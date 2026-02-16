@@ -188,10 +188,7 @@
   </p>
 
 </details>
-```
 
-But before anything, **paste this URL directly in your browser** to confirm the API is actually responding:
-```
 https://github-readme-stats.vercel.app/api?username=vashisth100&show_icons=true&theme=tokyonight
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
