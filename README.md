@@ -193,7 +193,8 @@
 
 ----
 	
-[![vashisth's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vashisth100&theme=github	)](https://github.com/vashisth100/github-readme-activity-graph)
+![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=vashisth100&theme=dracula)
+
 
  
 </details>
