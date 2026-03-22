@@ -34,11 +34,18 @@
 ## 🏆 Certifications
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate1.png" width="200"/>
-  <br/>
-  <b>Backend Developer – Meta (Coursera)</b>
-  <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate2.png" width ="200" />
-  <b>Version Control </b>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate1.png" width="200"/><br/>
+        <b>Backend Developer – Meta (Coursera)</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate2.png" width="200"/><br/>
+        <b>Version Control</b>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
