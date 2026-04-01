@@ -181,26 +181,6 @@
 
 </details>
   
-<details>
-  <summary><h3>💻 GitHub Profile Stats</h3></summary>
-  <br/>
-  <p align="center">
-    <img 
-      alt="vashisth's Github Stats" 
-      src="https://github-readme-stats.vercel.app/api?username=vashisth100&show_icons=true&count_private=true&locale=en&theme=tokyonight" 
-      height="230px"
-    />
-    &nbsp;
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=vashisth100&langs_count=10&show_icons=true&locale=en&theme=tokyonight&layout=compact" 
-      alt="vashisth100" 
-      height="230px"
-    />
-    <br/><br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-</details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
