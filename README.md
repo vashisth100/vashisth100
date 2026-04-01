@@ -44,6 +44,10 @@
         <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate2.png" width="220"/><br/><br/>
         <b>Version Control</b>
       </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate3.png" width="220"/><br/><br/>
+        <b>Version Control</b>
+      </td>
     </tr>
   </table>
 </p>
