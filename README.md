@@ -46,7 +46,7 @@
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate3.png" width="220"/><br/><br/>
-        <b>Programming in Pythonl</b>
+        <b>Programming in Python</b>
       </td>
     </tr>
   </table>
