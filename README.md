@@ -31,7 +31,7 @@
 <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=100> </picture> 
 </p>
 
-## 🏆 Certifications
+## 🏆 Certifications(on way to be a backend developer)
 
 <p align="center">
   <table cellspacing="20">
@@ -46,7 +46,7 @@
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate3.png" width="220"/><br/><br/>
-        <b>Version Control</b>
+        <b>Programming in Pythonl</b>
       </td>
     </tr>
   </table>
