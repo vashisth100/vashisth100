@@ -30,7 +30,7 @@
 <p align="center">
 <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=100> </picture> 
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=vashisth100&label=Profile%20Views&color=red&style=for-the-badge)
+<p ![Profile Views](https://komarev.com/ghpvc/?username=vashisth100&label=Profile%20Views&color=red&style=for-the-badge)> </p>
 
 ## 🏆 Certifications(on way to be a backend developer)
 
