@@ -56,6 +56,8 @@
         <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate4.png" width="220"/><br/><br/>
         <b>IOT</b>
       </td>
+ 		<td align="center"> <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/comingsoon.gif" width="180"/><br/><br/> </td> 
+	    <td align="center"> <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/comingsoon.gif" width="180"/><br/><br/> </td>
     </tr>
   </table>
 </p>
