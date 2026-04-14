@@ -50,6 +50,10 @@
         <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate3.png" width="220"/><br/><br/>
         <b>Programming in Python</b>
       </td>
+	   <td align="center">
+        <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate4.png" width="220"/><br/><br/>
+        <b>IOT</b>
+      </td>
     </tr>
   </table>
 </p>
