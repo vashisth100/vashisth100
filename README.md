@@ -36,7 +36,7 @@
 ## 🏆 Certifications(on way to be a backend developer)
 
 <p align="center">
-  <table cellspacing="20">
+  <table cellspacing="20">    
     <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate1.png" width="220"/><br/><br/>
@@ -50,7 +50,9 @@
         <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate3.png" width="220"/><br/><br/>
         <b>Programming in Python</b>
       </td>
-	   <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
         <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate4.png" width="220"/><br/><br/>
         <b>IOT</b>
       </td>
