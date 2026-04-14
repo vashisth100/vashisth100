@@ -25,13 +25,14 @@
 - :computer: I am a competitive programmer at  [`Leetcode`](https://leetcode.com/u/vashisth10/).
 - :student: I’m currently learning `DSA` and `Full stack Development`.
 - :nerd_face: Always `learning new things`.
+- ![Profile Views](https://komarev.com/ghpvc/?username=vashisth100&label=Profile%20Views&color=red&style=for-the-badge)> 
 <br>
 
 <p align="center">
 <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=100> </picture> 
 </p>
-<p ![Profile Views](https://komarev.com/ghpvc/?username=vashisth100&label=Profile%20Views&color=red&style=for-the-badge)> </p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=vashisth100&label=Profile%20Views&color=red&style=for-the-badge)> 
+	
 ## 🏆 Certifications(on way to be a backend developer)
 
 <p align="center">
