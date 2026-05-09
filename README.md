@@ -26,7 +26,6 @@
 - :student: I’m currently learning `DSA` and `Full stack Development`.
 - :nerd_face: Always `learning new things`.
    <br>  
-  ![Profile Views](https://komarev.com/ghpvc/?username=vashisth100&label=Profile%20Views&color=red&style=for-the-badge)
 <br>
 
 <p align="center">
