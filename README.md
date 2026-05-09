@@ -33,7 +33,7 @@
 <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=100> </picture> 
 </p>
 
-## 🏆 Certifications(on way to be a backend developer)
+## 🏆 Certifications(Backend developer)
 
 <p align="center">
   <table cellspacing="20">    
