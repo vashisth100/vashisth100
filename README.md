@@ -215,7 +215,6 @@
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
 <br clear="both">
 <div align="center">
     
