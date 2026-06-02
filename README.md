@@ -56,7 +56,7 @@
         <b>IOT</b>
       </td>
  		<td align="center">
-			<img src=https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate5.png" width="180"/><br/><br
+			<img src= "https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate5.png" width="220"/><br/><br
 		    <b>Introduction to Databases for Back-End Development</b>
 		</td> 
 	    <td align="center"> <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/comingsoon.gif" width="180"/><br/><br/> </td>
