@@ -25,17 +25,20 @@
 <td width="60%" valign="top">
 
 ```yaml
-priyanshu:
+Priyanshu Vashisth:
   role: "Computer Science Student"
   university: "VIT Bhopal University"
-  year: "2nd Year"
+  year: "3rd Year"
+
   interests:
     - Data Structures & Algorithms
     - Full-Stack Development
+    - Backend Developer
     - Systems-Level Software
+
   currently_building:
-    - "RoadWatch AI — road damage detection platform"
-    - "Datalake FaceAuth 3.0 — offline facial recognition"
+    - Banking Transaction System Backend
+
   philosophy: "Determination > Discipline > Desire"
   competitive_programming: "LeetCode @ vashisth10"
 ```
@@ -43,7 +46,7 @@ priyanshu:
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vashisth100&theme=algolia&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="100%"/>
 
 </td>
 </tr>
@@ -89,8 +92,8 @@ Road-damage detection platform for Indian municipal infrastructure — ISRO/DRDO
 </td>
 <td width="50%">
 
-### 🔐 Datalake FaceAuth 3.0
-Offline facial recognition system built for edge devices with on-device inference.
+### 🔐 MeetAI
+A Live one to one AI-powered teacher for doubt solving.
 
 `React Native` `MobileFaceNet TFLite` `MediaPipe` `AWS Lambda`
 
@@ -114,8 +117,8 @@ Fintech design system — a full React component library with WCAG-compliant des
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vashisth100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&border_radius=12"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vashisth100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&border_radius=12"/>
+<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=vashisth100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&border_radius=12"/>
+<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=vashisth100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&border_radius=12"/>
 
 <img src="https://streak-stats.demolab.com/?user=vashisth100&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
 
@@ -136,6 +139,8 @@ Fintech design system — a full React component library with WCAG-compliant des
 | Programming in Python | Coursera |
 | IOT | Coursera |
 | Intro to Databases for Back-End Dev | Coursera |
+| APIs | Coursera |
+| Cloud Computing | NPTEL |
 
 </div>
 
