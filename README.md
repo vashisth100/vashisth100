@@ -3,7 +3,7 @@
 <img src="./assets/neon-header.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=680&lines=2nd+Year+CS+Student+%40+VIT+Bhopal;Building+RoadWatch+AI+%26+Datalake+FaceAuth;Solving+Problems+on+LeetCode+%26+Codeforces;Systems-Level+Thinking%2C+Full-Stack+Execution" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=680&lines=3rd+Year+CS+Student+%40+VIT+Bhopal;;Solving+Problems+on+LeetCode+%26+Codeforces;Systems-Level+Thinking%2C+Full-Stack+Execution" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,17 +25,19 @@
 <td width="60%" valign="top">
 
 ```yaml
-priyanshu:
+Priyanshu Vashisth:
   role: "Computer Science Student"
   university: "VIT Bhopal University"
-  year: "2nd Year"
+  year: "3rd Year"
+
   interests:
     - Data Structures & Algorithms
     - Full-Stack Development
     - Systems-Level Software
+
   currently_building:
-    - "RoadWatch AI — road damage detection platform"
-    - "Datalake FaceAuth 3.0 — offline facial recognition"
+    - "Bank Transaction System"
+
   philosophy: "Determination > Discipline > Desire"
   competitive_programming: "LeetCode @ vashisth10"
 ```
@@ -89,8 +91,8 @@ Road-damage detection platform for Indian municipal infrastructure — ISRO/DRDO
 </td>
 <td width="50%">
 
-### 🔐 Datalake FaceAuth 3.0
-Offline facial recognition system built for edge devices with on-device inference.
+### 🔐 MeetAI
+A Live one-on-one AI problem solving bot.
 
 `React Native` `MobileFaceNet TFLite` `MediaPipe` `AWS Lambda`
 
@@ -134,7 +136,7 @@ Fintech design system — a full React component library with WCAG-compliant des
 <td align="center" width="180">
 <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate1.png" width="150" height="150" style="object-fit:cover;border-radius:10px;"/><br/>
 <sub><b>🏷️ Backend Developer</b></sub><br/>
-<sub>Meta · Coursera</sub>
+<sub> Coursera</sub>
 </td>
 <td align="center" width="180">
 <img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate2.png" width="150" height="150" style="object-fit:cover;border-radius:10px;"/><br/>
