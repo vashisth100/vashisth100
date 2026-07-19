@@ -1,0 +1,66 @@
+<svg width="100%" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05010f"/>
+      <stop offset="100%" stop-color="#0a0118"/>
+    </linearGradient>
+    <linearGradient id="neonPink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff2fd0"/>
+      <stop offset="100%" stop-color="#b026ff"/>
+    </linearGradient>
+    <linearGradient id="neonCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00fff2"/>
+      <stop offset="100%" stop-color="#00b3ff"/>
+    </linearGradient>
+    <filter id="glowStrong" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="b1"/>
+      <feMerge>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowSoft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b1"/>
+      <feMerge>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="220" fill="url(#bgGrad)"/>
+
+  <!-- faint grid for depth -->
+  <g stroke="#1a0e33" stroke-width="1" opacity="0.5">
+    <line x1="0" y1="55" x2="1000" y2="55"/>
+    <line x1="0" y1="165" x2="1000" y2="165"/>
+    <line x1="250" y1="0" x2="250" y2="220"/>
+    <line x1="750" y1="0" x2="750" y2="220"/>
+  </g>
+
+  <!-- neon frame -->
+  <rect x="14" y="14" width="972" height="192" rx="14" fill="none"
+        stroke="url(#neonCyan)" stroke-width="2" filter="url(#glowSoft)" opacity="0.8"/>
+
+  <!-- main neon title -->
+  <text x="500" y="118" text-anchor="middle" font-family="'Courier New', monospace"
+        font-size="52" font-weight="700" fill="#ffffff" stroke="url(#neonPink)"
+        stroke-width="1.5" filter="url(#glowStrong)" letter-spacing="4">
+    PRIYANSHU VASHISTH
+  </text>
+
+  <!-- tagline -->
+  <text x="500" y="160" text-anchor="middle" font-family="'Courier New', monospace"
+        font-size="20" fill="url(#neonCyan)" filter="url(#glowSoft)" letter-spacing="3">
+    SYSTEMS · FULL-STACK · COMPETITIVE PROGRAMMING
+  </text>
+
+  <!-- corner accents -->
+  <g stroke="url(#neonPink)" stroke-width="2" filter="url(#glowSoft)" fill="none">
+    <path d="M30 40 L30 20 L50 20"/>
+    <path d="M970 40 L970 20 L950 20"/>
+    <path d="M30 180 L30 200 L50 200"/>
+    <path d="M970 180 L970 200 L950 200"/>
+  </g>
+</svg>

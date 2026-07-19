@@ -1,0 +1,29 @@
+<svg width="100%" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#05010f"/>
+      <stop offset="100%" stop-color="#0a0118"/>
+    </linearGradient>
+    <linearGradient id="neonLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00fff2"/>
+      <stop offset="50%" stop-color="#ff2fd0"/>
+      <stop offset="100%" stop-color="#00fff2"/>
+    </linearGradient>
+    <filter id="glowF" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b1"/>
+      <feMerge>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="100" fill="url(#bgGradF)"/>
+  <line x1="40" y1="20" x2="960" y2="20" stroke="url(#neonLine)" stroke-width="2" filter="url(#glowF)"/>
+
+  <text x="500" y="65" text-anchor="middle" font-family="'Courier New', monospace"
+        font-size="24" fill="#ffffff" stroke="#ff2fd0" stroke-width="1"
+        filter="url(#glowF)" letter-spacing="3">
+    THANKS FOR STOPPING BY
+  </text>
+</svg>
