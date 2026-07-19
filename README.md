@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Priyanshu%20Vashisth&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Systems%20%7C%20Full-Stack%20%7C%20Competitive%20Programming&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=680&lines=2nd+Year+CS+Student+%40+VIT+Bhopal;Solving+Problems+on+LeetCode+%26+Codeforces;Systems-Level+Thinking%2C+Full-Stack+Execution" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=680&lines=3rd+Year+CS+Student+%40+VIT+Bhopal;Solving+Problems+on+LeetCode+%26+Codeforces;Systems-Level+Thinking%2C+Full-Stack+Execution" alt="Typing SVG" />
 </a>
 
 <br/>
