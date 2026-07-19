@@ -117,7 +117,7 @@ Fintech design system — a full React component library with WCAG-compliant des
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=vashisth100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&border_radius=12"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vashisth100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&border_radius=12"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vashisth100&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
+<img src="https://streak-stats.demolab.com/?user=vashisth100&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vashisth100&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff" width="100%"/>
 
