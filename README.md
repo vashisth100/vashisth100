@@ -161,6 +161,9 @@ Fintech design system — a full React component library with WCAG-compliant des
 <sub>Coursera</sub>
 </td>
 <td align="center" width="180">
+<img src="https://raw.githubusercontent.com/vashisth100/vashisth100/main/certificates/certificate6.png" width="150" height="150" style="object-fit:cover;border-radius:10px;"/><br/>
+<sub><b>🏷️ APIs</b></sub><br/>
+<sub>Coursera</sub>
 </td>
 </tr>
 </table>
