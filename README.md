@@ -180,6 +180,7 @@ Fintech design system — a full React component library with WCAG-compliant des
 <a href="https://github.com/vashisth100"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/></a>
 <a href="https://www.linkedin.com/in/priyanshu-vashisth-aa7b99333/"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/></a>
 <a href="https://leetcode.com/u/vashisth10/"><img src="https://img.shields.io/badge/LeetCode-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29"/></a>
+<a href="https://vashisthxdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=Portfolion&logoColor=white&labelColor=0f0c29"/></a>
 
 </div>
 
